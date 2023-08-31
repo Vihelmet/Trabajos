@@ -1,4 +1,4 @@
-<h1 id="Proyectos/Projects"> :books: Proyectos/Projects</h1>
+<h1 id="Proyectos"> :books: Proyectos</h1>
 
 Carpeta recopilatoria de varios proyectos llevados a cabo a lo largo del *bootcamp* de *Data Science* cursado con *The Bridge*.
 
@@ -11,3 +11,15 @@ El repositorio de este proyecto contiene los siguientes proyectos:
 * :clipboard: *Paths*: ejercicio para organización automática de archivos.
 
 _______________________________________
+
+<h1 id="Projects"> :books: Projects</h1>
+
+Compendium folder of various projects undertaken throughout the *Data Science* bootcamp pursued with *The Bridge*.
+
+<h2 id="Repository Contents"> :file_folder: Repository Contents</h2>
+
+The repository for this project includes the following projects:
+
+* :boat: Battleship: Programming of the classic game in Python.
+* :gear: API Model: Deployment of a machine learning model into an API for consumption.
+* :clipboard: Paths: Exercise for automatic file organization.
