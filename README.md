@@ -4,7 +4,7 @@ Carpeta recopilatoria de varios proyectos llevados a cabo a lo largo del *bootca
 
 <h2 id="Contenido del repositorio"> :file_folder: Contenido del repositorio</h2>
 
-El repositorio de este proyecto contiene los siguientes proyectos:
+Este repositorio contiene los siguientes proyectos:
 
 * :boat: Hundir la flota: programación del clásico juego en Python.
 * :gear: Modelo API: despliegue de un modelo de machine learning en una API para su consumo.
@@ -18,7 +18,7 @@ Compendium folder of various projects undertaken throughout the *Data Science* b
 
 <h2 id="Repository Contents"> :file_folder: Repository Contents</h2>
 
-The repository for this project includes the following projects:
+The repository includes the following projects:
 
 * :boat: Battleship: Programming of the classic game in Python.
 * :gear: API Model: Deployment of a machine learning model into an API for consumption.
