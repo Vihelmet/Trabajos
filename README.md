@@ -8,6 +8,6 @@ El repositorio de este proyecto contiene los siguientes proyectos:
 
 * :boat: Hundir la flota: programación del clásico juego en Python.
 * :gear: Modelo API: despliegue de un modelo de machine learning en una API para su consumo.
-* :box: Paths: ejercicio para organización automática de archivos.
+* :clipboard: *Paths*: ejercicio para organización automática de archivos.
 
 _______________________________________
